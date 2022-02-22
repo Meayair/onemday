@@ -1,2 +1,29 @@
 # onemday
-A typecho theme for movie sharing website
+这是一个专门用来分享电影的Typecho个人定制主体。
+🚫不追求功能强大、普适
+💖而是精准、细致、实用
+## 概述
+
+## 特性
+> 演示站点：[黑白格](http://onemday.com/)
+
+* 黑金配色，显高端大气
+* 
+
+## 开始使用
+
+上线后补充
+
+## 二次开发
+
+针对这里的主题版本，允许二次开发，不过如果你要定制自己的版本，还是希望能够留下本主题的名字。如果你对自己的更改很满意，欢迎提出 Pull Request。
+
+## 更新日志
+
+## 鸣谢
+
+## 开源项目
+
+## License
+MIT © [Meayair](https://github.com/Meayair)
+
